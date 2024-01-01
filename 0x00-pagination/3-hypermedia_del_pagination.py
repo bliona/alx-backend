@@ -1,5 +1,6 @@
-
-n-resilient hypermedia pagination
+#!/usr/bin/env python3
+"""
+Deletion-resilient hypermedia pagination
 """
 
 import csv
